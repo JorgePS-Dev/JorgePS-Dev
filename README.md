@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, bem-vindos!!
 
-<!--
-**JorgePS-Dev/JorgePS-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobe mim
+
+- 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas na ETEC**.
+- 🛠️ Desenvolvendo meu **TCC** com foco em metodologias ágeis (Scrum/PO).
+- 💻 Experiência com infraestrutura de **Redes (OSI/IPv4/IPv6)**.
+- 🚀 Sempre evoluindo em boas práticas de programação e versionamento com Git.
+
+## 🛠️ Tecnologias que estudo
+
+<div align="center">
+  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="DotNet" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+</div>
+
