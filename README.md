@@ -6,12 +6,14 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="150" align="right" />
+## 🧑🏻‍💻​ Sobre mim
+
+<img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" width="200" align="right" />
 
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas na ETEC**.
 - 🛠️ Desenvolvendo meu **TCC** com foco em metodologias ágeis (Scrum/PO).
 - 💻 Experiência com infraestrutura de **Redes (OSI/IPv4/IPv6)**.
-- 🚀 Sempre evoluindo em boas práticas de programação e versionamento com Git.
+- 🚀 Sempre evoluindo em boas práticas de programação.
 
 <br clear="right">
 
