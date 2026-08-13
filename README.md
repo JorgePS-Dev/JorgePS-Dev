@@ -11,7 +11,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" width="200" align="right" />
 
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas na ETEC**.
-- 🛠️ Desenvolvendo meu **TCC** com foco em metodologias ágeis (Scrum/PO).
 - 💻 Experiência com infraestrutura de **Redes (OSI/IPv4/IPv6)**.
 - 🚀 Sempre evoluindo em boas práticas de programação.
 
